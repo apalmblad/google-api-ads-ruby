@@ -39,5 +39,5 @@ Gem::Specification.new do |s|
   s.add_dependency('savon', '~> 1.2.0')
   s.add_dependency('httpi', '~> 1.1.0')
   s.add_dependency('oauth', '~> 0.4.5')
-  s.add_dependency('oauth2', '~> 0.8.0')
+  s.add_dependency('oauth2', '~> 0.5.2')
 end
